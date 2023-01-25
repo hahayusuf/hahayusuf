@@ -1,5 +1,3 @@
-<h1 align="center">Hello, I'm Hesham Yusuf</h1>
-<h3 align="center">Tech is my passion. I enjoy stacking technologies to build solutions.</h3>
 
 ---
 
