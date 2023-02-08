@@ -74,9 +74,15 @@
     src='https://img.shields.io/static/v1?logo=Docker&label=%20&message=Docker&color=black'
   />
 </a>
-<a href='https://www.jenkins.io/'>
+<a href='https://circleci.com/'>
   <img
     alt='Jenkins'
+    src='https://img.shields.io/static/v1?logo=CircleCI&label=%20&message=CircleCI&color=black'
+  />
+</a>
+<a href='https://www.jenkins.io/'>
+  <img
+    alt='CircleCI'
     src='https://img.shields.io/static/v1?logo=Jenkins&label=%20&message=Jenkins&color=black'
   />
 </a>
